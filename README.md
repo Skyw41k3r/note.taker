@@ -1,14 +1,14 @@
-<<<<<<< HEAD
-# note-taker
 
+# note.taker
+This assignment was made to help with getting a better understanding working with express.
 # About📃
+ This is a Web Application designed to create notes.
 
 # Deployment 🚀
-
+This assignment was deployed on github!
 
 
 # Preview 📷
- 
-=======
-# note.taker
->>>>>>> a551ef232e83d129b2fad058bbddef85f334f515
+
+
+
